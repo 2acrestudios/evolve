@@ -1,5 +1,5 @@
 <h1>evolve</h1>
-<img src="https://2acrestudios.com/wp-content/uploads/2024/04/evolve-icon-1.png" style="width: 200px;" align="right" />Like digital 'Sea Monkies' this Python script creates a simulation of evolving entities using Pygame and a local AI endpoint. Entities in this simulation exhibit basic behaviors such as movement and reproduction, with added complexities such as mutation, lifespan, and a reproductive cooldown period. The aim is to simulate an ecosystem where entities can mutate over generations, leading to a diverse range of attributes among the population. The AI endpoint is provided by running a local Ollama server using the Gemma:2b-instruct model.
+<img src="https://2acrestudios.com/wp-content/uploads/2024/04/1371375012_output.png" style="width: 300px;" align="right" />Like digital 'Sea Monkies' this Python script creates a simulation of evolving entities using Pygame and a local AI endpoint. Entities in this simulation exhibit basic behaviors such as movement and reproduction, with added complexities such as mutation, lifespan, and a reproductive cooldown period. The aim is to simulate an ecosystem where entities can mutate over generations, leading to a diverse range of attributes among the population. The AI endpoint is provided by running a local Ollama server using the Gemma:2b-instruct model.
 
 <h3>Key Features:</h3>
 <ol>
