@@ -1,3 +1,4 @@
+# evolve by 2 Acre Studios
 import random
 import pygame
 import sys
