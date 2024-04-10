@@ -1,5 +1,5 @@
-# evolve
-This Python script creates an interactive simulation of evolving entities using Pygame. Entities in this simulation exhibit basic behaviors such as movement and reproduction, with added complexities such as mutation, lifespan, and a reproductive cooldown period. The aim is to simulate an ecosystem where entities can mutate over generations, leading to a diverse range of attributes among the population. The AI endpoint is provided by running a local Ollama server using the Gemma:2b-instruct model.
+<img src="https://2acrestudios.com/wp-content/uploads/2024/04/evolve-icon.png" style="width: 200px;" />
+This Python script creates a simulation of evolving entities using Pygame and a local AI endpoint. Entities in this simulation exhibit basic behaviors such as movement and reproduction, with added complexities such as mutation, lifespan, and a reproductive cooldown period. The aim is to simulate an ecosystem where entities can mutate over generations, leading to a diverse range of attributes among the population. The AI endpoint is provided by running a local Ollama server using the Gemma:2b-instruct model.
 
 Key Features:
 1. Movement: Entities move randomly within the screen bounds.
