@@ -10,7 +10,7 @@
 <li>Population Control: The simulation enforces a maximum population limit to maintain performance and ecosystem balance. A reproduction cooldown further prevents rapid population explosions.</li>
 <li>AI Decisions: Entities fetch behavior decisions from a local AI model endpoint, allowing for dynamic interactions based on AI-generated instructions.</li>
 </ol>
-
+<img src="https://2acrestudios.com/wp-content/uploads/2024/05/Screenshot-2024-05-02-at-10.50.34 AM-3.png" />
 <h3>How It Works:</h3>
 <ul>
 <li>The simulation initializes a Pygame window with a predefined number of entities.</li>
