@@ -1,4 +1,3 @@
-# evolve by 2 Acre Studios
 import pygame
 import requests
 import json
@@ -75,7 +74,8 @@ class Food:
         self.size = 5
 
     def draw(self, screen):
-        pygame.draw.circle(screen, GREEN, (self.x, self.y), self.size)
+        # Draw a small green square to represent food
+        pygame.draw.rect(screen, GREEN, (self.x, self.y, self.size, self.size))
 
 class Organism:
     def __init__(self, x, y, size=5, color=PINK, genetic_traits=None, energy=INITIAL_ENERGY):
