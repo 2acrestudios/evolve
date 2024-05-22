@@ -2,20 +2,6 @@
 <img src="https://2acrestudios.com/wp-content/uploads/2024/04/evolve.png" style="width: 300px;" align="right" />Like digital 'Sea Monkies' this Python script creates a simulation of evolving entities using Pygame and a local AI endpoint. Entities in this simulation exhibit basic behaviors such as movement and reproduction, with added complexities such as mutation, lifespan, and a reproductive cooldown period. The aim is to simulate an ecosystem where entities can mutate over generations, leading to a diverse range of attributes among the population. The AI endpoint is provided by running a local Ollama server using the Gemma:2b-instruct model.
 To create a complete README file for the provided script, I'll first analyze the script to understand its functionality and structure. Then, I'll generate a comprehensive README.md file.
 
-Let's start by examining the script.
-
-Based on the initial part of the script, it appears to be a simulation of evolution using Pygame. The script initializes Pygame, sets up screen dimensions, defines colors, and includes various parameters for the simulation such as population limits, lifespan limits, and reproduction thresholds.
-
-Here's a detailed README.md file based on this analysis:
-
----
-
-# Evolution Simulation
-
-## Overview
-
-This project simulates the process of evolution using a Pygame-based graphical environment. Organisms move around the screen, eat food, reproduce, and evolve over time. The simulation includes various parameters to control population limits, lifespan, energy consumption, and reproduction thresholds.
-
 ## Features
 
 - **Graphical Simulation**: Uses Pygame to create a visual representation of the evolutionary process.
